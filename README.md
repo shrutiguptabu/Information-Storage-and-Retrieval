@@ -15,3 +15,6 @@ System Type : 64 - bits Operting System
 5. Processing of file include extracting the content and docno, word tokenizer, word normalizer that inclued converting the sting to lower case and then stemming the word, and in the end stopword removal.
 
 The results of the processed data is stored in the folder data/output/result.trectext for input file docset.trectext and data/output/result.trecweb for input file docset.trectext
+
+# Data
+http://crystal.exp.sis.pitt.edu:8080/iris/resource.jsp
